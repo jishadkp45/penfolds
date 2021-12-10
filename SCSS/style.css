@@ -1,0 +1,214 @@
+@media (min-width: 500px) {
+  * {
+    padding: 0%;
+    margin: 0%;
+    font-family: Proxima Nova, arial, sans-serif;
+  }
+  .container {
+    color: #E5E5E5;
+  }
+  .login {
+    background-color: black;
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    height: 45px;
+  }
+  a {
+    color: #FFFFFF;
+    text-decoration: none;
+  }
+  .anc_login {
+    color: #FFFFFF;
+    text-decoration: underline;
+  }
+  .exclusive-member {
+    color: #FFFFFF;
+    position: absolute;
+    left: 22.32%;
+    right: 31.46%;
+    top: 24%;
+    bottom: 78.46%;
+    font-family: Proxima Nova, arial, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 22px;
+    /* identical to box height, or 169% */
+    text-align: center;
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+  }
+  .Login-button {
+    position: absolute;
+    right: 3.5%;
+    top: 24.62%;
+    bottom: 78.46%;
+    font-family: Proxima Nova, arial, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 22px;
+    /* identical to box height, or 169% */
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+  }
+  .profile-1 {
+    position: absolute;
+    right: 9%;
+    top: 25%;
+    -webkit-transform: matrix(-1, 0, 0, 1, 0, 0);
+            transform: matrix(-1, 0, 0, 1, 0, 0);
+  }
+  .profile-2 {
+    position: absolute;
+    right: 8.7%;
+    top: 50%;
+    -webkit-transform: matrix(-1, 0, 0, 1, 0, 0);
+            transform: matrix(-1, 0, 0, 1, 0, 0);
+  }
+  .section {
+    background: url("../images/landingimage_desk.png");
+    width: 100%;
+    height: 640px;
+  }
+  .cover-image {
+    width: 100%;
+    height: 650px;
+  }
+  .logo {
+    width: 130.79px;
+    height: 68px;
+    margin-top: 3.5em;
+    margin-left: 1em;
+  }
+  .navbar-div {
+    width: 100%;
+    height: 88px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    background: -webkit-gradient(linear, left top, left bottom, from(#161616), to(rgba(22, 22, 22, 0)));
+    background: linear-gradient(180deg, #161616 0%, rgba(22, 22, 22, 0) 100%);
+  }
+  .navbar-div ul li {
+    display: inline;
+    margin-left: 5em;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 22px;
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+  }
+  .navbar-div ul {
+    margin-top: 65px;
+  }
+  .navbar-div ul li img {
+    margin-left: 2em;
+  }
+  .search-icon {
+    margin-left: 1em;
+  }
+  .meet {
+    position: absolute;
+    width: 18.75em;
+    height: 1.25em;
+    left: 37.875em;
+    top: 18.3125em;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 20px;
+    /* identical to box height, or 133% */
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+  }
+  .section-title {
+    position: absolute;
+    width: 50em;
+    height: 3em;
+    left: 7.5em;
+    top: 7.1875em;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 44px;
+    line-height: 48px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+  .data {
+    width: 100%;
+    height: 192.4375em;
+    background-color: #2A2A2A;
+  }
+  .counter {
+    width: 5.58875em;
+    height: 8.4375em;
+    font-size: 10em;
+    margin-left: 30%;
+    color: #BE0216;
+    letter-spacing: 0.10em;
+  }
+  .counter-1 {
+    position: absolute;
+    top: 105%;
+    left: 15%;
+    width: 39em;
+  }
+  .text-1 {
+    position: absolute;
+    top: 112%;
+    right: 27%;
+    width: 395px;
+    height: 96px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 24px;
+    letter-spacing: 0.1em;
+  }
+  .counter-2 {
+    position: absolute;
+    top: 145%;
+    left: 30.9%;
+    height: 12.5em;
+    width: 12.5em;
+  }
+  .text-2 {
+    position: absolute;
+    top: 155.5%;
+    right: 26%;
+    width: 409px;
+    height: 72px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 24px;
+    letter-spacing: 0.1em;
+  }
+  .counter-3 {
+    position: absolute;
+    top: 182%;
+    left: 11.9%;
+    height: 12.5em;
+    width: 28.5em;
+  }
+  .text-3 {
+    position: absolute;
+    width: 409px;
+    height: 68px;
+    left: 710px;
+    top: 1434px;
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 24px;
+    letter-spacing: 0.1em;
+  }
+}
+/*# sourceMappingURL=style.css.map */
